@@ -15,12 +15,13 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+`#ukb-credo`
 
-- State/Invariant, Transformation
-- Trajectory + Distributed
-- Unambiguous Optimization Function
-- Combinatorials + Perspectivism
-- Estate, Scars, Identity
+- State/Invariant, Transformation {Semantics}
+- Trajectory + Distributed {[Mechanics](https://en.wikipedia.org/wiki/Coffee#History)}
+- Unambiguous Optimization Function {[Dynamics](https://abikesa.github.io/y26m01d28/)}       
+- Combinatorials + Perspectivism {[Ecology](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)}
+- Estate, Scars, Identity {Biography}
 
 # [00-O](https://eplnm.github.io/y26m01d28/)
 This is a profound reframing. You are moving the diagnosis from **Topography** (the shape of the trench) to **Plasticity** (the willingness of the agent to climb out of it).
