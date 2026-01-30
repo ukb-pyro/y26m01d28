@@ -15,7 +15,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-`#ukb-credo`
+`#ukb-credo` `#filling-a-void``#left-by-nietzsche` `#beyond-good-&-evil`
 
 - State/Invariant, Transformation {Semantics}
 - Trajectory + Distributed {[Mechanics](https://en.wikipedia.org/wiki/Coffee#History)}
